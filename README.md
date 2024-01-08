@@ -16,5 +16,7 @@ GP-Write Lab Notebook
 | 09-13-2023                                 | [Last Meeting with Michael](journals/09-13-2023.md)                         | 1               |
 | 09-17-2023                                 | [Meeting with Dominic about Python Lambda Runtimes](journals/09-17-2023.md) | 1               |
 | 09-21-2023                                 | [Changing Python Lambda Runtimes](journals/09-21-2023.md)                   | 2               |
-| 10-30-2023 <br> 10-31-2023                 | [Creating New Python Layers](journals/10-30-2023.md)                        | 1 <br> 2        |
-| **Total Hours**                                | ---                                               | 36              |
+| 10-30-2023 <br> 10-31-2023 <br> 11-05-2023 | [Creating New Python Layers](journals/10-30-2023.md)                        | 1 <br> 2 <br> 1 |
+| 11-16-2023 <br> 11-27-2023 <br> 12-11-2023 | [Generating .zip Files for Layers](journals/11-16-2023.md)                  | 2 <br> 2 <br> 3 |
+| **Total Hours**                                | ---                                               | 44              |
+
