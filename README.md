@@ -17,5 +17,7 @@ GP-Write Lab Notebook
 | 10-30-2023 <br> 10-31-2023 <br> 11-05-2023 | [Creating New Python Layers](journals/10-30-2023.md)                        | 1 <br> 2 <br> 1 |
 | 11-16-2023 <br> 11-27-2023 <br> 12-11-2023 | [Generating .zip Files for Layers](journals/11-16-2023.md)                  | 2 <br> 2 <br> 3 |
 | 01-21-2024 <br> 02-01-2024 <br> 02-10-2024 | [Testing Locally with SAM](journals/01-21-2024.md)                          | 1 <br> 1 <br> 1 |
-| **Total Hours**                                | ---                                               | 44              |
+| 02-12-2024                                 | [Deploying Stacks Locally](journals/02-12-2024.md)                          | 2               |
+| 03-06-2024                                 | [Updating Frontend Packages](/journals/03-06-2024.md)                        | 2               |
+| **Total Hours**                                | ---                                               | 50              |
 
