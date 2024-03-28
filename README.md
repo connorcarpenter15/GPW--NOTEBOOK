@@ -19,5 +19,6 @@ GP-Write Lab Notebook
 | 01-21-2024 <br> 02-01-2024 <br> 02-10-2024 | [Testing Locally with SAM](journals/01-21-2024.md)                          | 1 <br> 1 <br> 1 |
 | 02-12-2024                                 | [Deploying Stacks Locally](journals/02-12-2024.md)                          | 2               |
 | 03-06-2024 <br> 03-10-2024                 | [Updating Frontend Packages](journals/03-06-2024.md)                        | 2 <br> 2        |
-| **Total Hours**                                | ---                                               | 52              |
+| 03-28-2024                                 | [Invoking Lambda Funcions Locally](journals/03-28-2024.md)                  | 3               |
+| **Total Hours**                                | ---                                               | 55              |
 
